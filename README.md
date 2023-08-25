@@ -1,7 +1,7 @@
 <p width="400">
   <h1>Hi 👋, I'm El-Sayed Chelsea</h1>
-<h3>Full Stack developer from Egypt</h3>
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+Full+Stack+Developer;"/></h3>
+<h3>MERN Stack developer from Egypt</h3>
+<h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+MERN+Stack+Developer;"/></h3>
 </p>
 <a href="https://app.daily.dev/elsayedchelsea"><img src="https://api.daily.dev/devcards/634d48c95a5e4fe3b7a95b25c755319f.png?r=9ov" width="400" alt="El-Sayed Chelsea's Dev Card"/></a>
 <p style="margin-bottom: 20px">
